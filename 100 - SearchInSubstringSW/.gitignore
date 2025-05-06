@@ -38,4 +38,11 @@ build/
 .DS_Store
 
 
-src/main/java/aa/tulybaev/results.csv
+src/main/java/aa/tulybaev/resultsBad.csv
+src/main/java/aa/tulybaev/resultsBest.csv
+src/main/java/aa/tulybaev/resultsNormal.csv
+src/main/java/aa/tulybaev/resultsReal.csv
+src/main/java/aa/tulybaev/аисд презентация.pptx
+src/main/java/aa/tulybaev/files
+
+
